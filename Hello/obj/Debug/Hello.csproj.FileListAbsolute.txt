@@ -1,0 +1,6 @@
+C:\Code\dotNet_PluralSight\Hello\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Code\dotNet_PluralSight\Hello\Hello\Hello\bin\Debug\Hello.exe
+C:\Code\dotNet_PluralSight\Hello\Hello\Hello\bin\Debug\Hello.pdb
+C:\Code\dotNet_PluralSight\Hello\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Code\dotNet_PluralSight\Hello\Hello\Hello\obj\Debug\Hello.exe
+C:\Code\dotNet_PluralSight\Hello\Hello\Hello\obj\Debug\Hello.pdb
