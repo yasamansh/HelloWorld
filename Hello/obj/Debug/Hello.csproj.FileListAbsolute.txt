@@ -4,3 +4,9 @@ C:\Code\dotNet_PluralSight\Hello\Hello\Hello\bin\Debug\Hello.pdb
 C:\Code\dotNet_PluralSight\Hello\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
 C:\Code\dotNet_PluralSight\Hello\Hello\Hello\obj\Debug\Hello.exe
 C:\Code\dotNet_PluralSight\Hello\Hello\Hello\obj\Debug\Hello.pdb
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\HelloWorld\Hello\bin\Debug\Hello.exe.config
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\HelloWorld\Hello\bin\Debug\Hello.exe
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\HelloWorld\Hello\bin\Debug\Hello.pdb
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\HelloWorld\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\HelloWorld\Hello\obj\Debug\Hello.exe
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\HelloWorld\Hello\obj\Debug\Hello.pdb

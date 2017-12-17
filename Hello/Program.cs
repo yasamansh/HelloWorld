@@ -6,8 +6,10 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello! this is "+DateTime.Now.DayOfWeek);
+            // the name is comming from: Hello-> Properties -> Debug -> Command Line Arguments
+            Console.WriteLine("Hello! " + args[0] +" this is "+DateTime.Now.DayOfWeek);
             Console.ReadLine();
         }
     }
 }
+
